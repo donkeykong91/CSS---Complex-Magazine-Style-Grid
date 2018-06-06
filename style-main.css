@@ -238,6 +238,10 @@ CSS Grid layout for wider screens, when browser supports grid:
 			justify-content: center;
 		}
 
+		.card {
+			margin: 0;
+		}
+
 	}
 
 }
