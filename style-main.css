@@ -242,6 +242,10 @@ CSS Grid layout for wider screens, when browser supports grid:
 			margin: 0;
 		}
 
+		.double {
+			grid-row: span 3;
+		}
+
 	}
 
 }
